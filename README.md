@@ -1,11 +1,11 @@
-The Geek Squad 1-Year subscription payment of $348.37 USD has been successfully completed. If you believe this transaction was denied, you should get in touch with support by February 17, 2026. After this date, the payment is not refundable.Help Line: +1 (818) 337-0721.
+Dear Customer,
 
-Product Details
-Transaction ID: LOS-SF65-87S
-Invoice No: #INV-SD9-SFD-DG59
-Current Plan: 1-Year Subscription.
+You've successfully purchased 0.025 BTC using your PayPal account, valued at £865.37 GBP. Need Assistance? Call our Customer Support.
 
-If in case, you didn't authorize this purchase, please reach us at +1 (818) 337-0721 to cancel the subscription.
+Order Date: 18-02-2026.
+Transaction ID: LOS-SF65-87S.
+
+If you don't recognize this transaction or need assistance with a cancellation or refund, please contact our support team immediately .Support Team: +44 20 8050 6418 
 
 Thanks,
 Billing Dept.
